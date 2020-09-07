@@ -1,7 +1,7 @@
 # Reinforcement Learning
 
 ## Contents
-* Policy Search
+* Policy Gradients
 * Deep Q-Networks
 * Markov-Decision Process
 * TF-Agents
